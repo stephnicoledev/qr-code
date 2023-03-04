@@ -4,8 +4,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://stephnicoledev.github.io/qr-code-component/)
+- Live Site URL: https://stephnicoledev.github.io/qr-code-component/
 
 ## My process
 
