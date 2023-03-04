@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![](./images/desktop-design.jpg)
+![](images/desktop-design.jpg)
 
 ### Links
 
