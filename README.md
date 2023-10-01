@@ -1,8 +1,8 @@
-<h2 align="center">QR code component</h2>
+<h2 align="center">QR code</h2>
 
 ![](images/desktop-design.jpg)
 
-<div align="center"><a href="https://stephnicoledev.github.io/qr-code-component/"><strong>Live Site</strong></a></div>
+<div align="center"><a href="https://stephnicoledev.github.io/qr-code/"><strong>Live Site</strong></a></div>
 
 ## How It's Made:
 
