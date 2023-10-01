@@ -1,14 +1,11 @@
-# Frontend Mentor - QR code component
+<h2 align="center">QR code component</h2>
 
 ![](images/desktop-design.jpg)
 
-### Links
+<div align="center"><a href="https://stephnicoledev.github.io/qr-code-component/"><strong>Live Site</strong></a></div>
 
-- Live Site URL: https://stephnicoledev.github.io/qr-code-component/
+## How It's Made:
 
-## My process
+**Tech used:** HTML, CSS
 
-### Built with
-
-- HTML5
-- CSS Flexbox
+- Utilized CSS Flexbox to ensure a responsive design.
